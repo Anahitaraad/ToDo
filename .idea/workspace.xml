@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3579f15-ae57-4b86-8966-44d9aa534213" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/model/TodoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/model/TodoItemTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3579f15-ae57-4b86-8966-44d9aa534213" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +43,27 @@
       <option name="presentableId" value="Default" />
       <updated>1695589739979</updated>
     </task>
+    <task id="LOCAL-00001" summary="todo">
+      <option name="closed" value="true" />
+      <created>1695594935988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695594935988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="todo">
+      <option name="closed" value="true" />
+      <created>1695595170663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695595170663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo" />
   </component>
 </project>
