@@ -6,6 +6,7 @@ import lexicon.utils.StringValidator;
 import java.time.LocalDate;
 import java.util.Objects;
 
+
 public class TodoItem {
 
     // Fields
@@ -44,7 +45,8 @@ public class TodoItem {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         TodoItem todoItem = (TodoItem) o;
-        return id == todoItem.id && done == todoItem.done && Objects.equals(title, todoItem.title) && Objects.equals(taskDescription, todoItem.taskDescription) && Objects.equals(deadLine, todoItem.deadLine);
+        return id == todoItem.id && done == todoItem.done && Objects.equals(title, todoItem.title) &&
+                Objects.equals(taskDescription, todoItem.taskDescription) && Objects.equals(deadLine, todoItem.deadLine);
     }
 
     @Override
@@ -110,4 +112,4 @@ public class TodoItem {
     public void setCreator(Person creator) {
         this.creator = creator;
     }
-}}
+}
